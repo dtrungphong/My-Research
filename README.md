@@ -15,8 +15,7 @@
 | [Gather and analyze data on products tailored for mothers and infants](./internship) |  | ✅ Complete  | Internship Report | Supervisor | Jul 2024  |
 | [Sign Language Recognition](./student_research) | Computer Vision | 🔃 In Progress  | Student Scientific Research | Supervisor | Dec 2024  |
 | [Automatic image data collection from Google](./internship) | Crawling and Scraping data, Computer Vision | ✅ Complete  | Internship Report | Supervisor | Oct 2022  |
-| [CPC1 Employee Face Recognition](./intern) | Compute
-r Vision | 🚧 Terminated | AI Project | Intern | 2021  |
+| [CPC1 Employee Face Recognition](./intern) | Computer Vision | 🚧 Terminated | AI Project | Intern | 2021  |
 | [Recognition genital diseases](./intern) | Crawling and Scraping data, Computer Vision, Ensemble | ✅ Complete  | AI Project | Intern | Feb 10, 2020  |
 | [Recognition skin fungus](./intern) | Crawling and Scraping data, Computer Vision | ✅ Complete  | AI Project | Intern | Aug 17, 2019  |
 
