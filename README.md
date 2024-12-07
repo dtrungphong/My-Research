@@ -1,7 +1,7 @@
 
 **A curated space for Phong's research and a variety of other inspirations.**
 
-# 1. My research
+# 1. Research and Project
 
 | Title | Keywords | Status | Type | Role | Release Date |
 |--------|-------------|---------|------|------|--------------|
@@ -12,14 +12,23 @@
 | [Chatbot AI in Banking](./chat_bot_banking) | Rasa framework, FastAPI | 🚧 Canceled | Application Project | Developer | Nov 2022  |
 | [Nutrition recommendation system](./student_research) | Scraping data, Data processing | 🔃 Incomplete  | Student Scientific Research | Supervisor | 2021  |
 | [Check code plagiarism using AI.](./plagiarism_AI) | Feature Engineering, XGBoost | ✅ Complete  | Bachelor Thesis | Supervisor | Mar 2023  |
-| [Gather and analyze data on products tailored for mothers and infants](./internship) |  | ✅ Complete  | Internship Report | Supervisor | Jul 2024  |
 | [Sign Language Recognition](./student_research) | Computer Vision | 🔃 In Progress  | Student Scientific Research | Supervisor | Dec 2024  |
 | [Automatic image data collection from Google](./internship) | Crawling and Scraping data, Computer Vision | ✅ Complete  | Internship Report | Supervisor | Oct 2022  |
 | [CPC1 Employee Face Recognition](./intern) | Computer Vision | 🚧 Terminated | AI Project | Intern | 2021  |
 | [Recognition genital diseases](./intern) | Crawling and Scraping data, Computer Vision, Ensemble | ✅ Complete  | AI Project | Intern | Feb 10, 2020  |
-| [Recognition skin fungus](./intern) | Crawling and Scraping data, Computer Vision | ✅ Complete  | AI Project | Intern | Aug 17, 2019  |
+| [Recognition skin fungus](./intern/mycosis/) | Crawling and Scraping data, Computer Vision | ✅ Complete  | AI Project | Intern | Aug 17, 2019  |
 
 
-# 2. Highlight note
+# 2. Syllabus
 
-# 3. Sysllabus 
+**Course Information and Materials at Thang Long University**
+
+- [Introduction to Artificial Intelligence](./syllabus/intro_AI/) (Code: AI130)
+- [Introduction to Data Science](./syllabus/intro_DS/) (Code: CS321)
+- [Machine Learning](./syllabus/machine_learning/) (Code: CS320)
+- [Data Structure](./syllabus/data_structure/) (Code: CF212)
+- [Algorithm](./syllabus/algo/) (Code: CF211)
+
+
+# 3. Self-Training Skills
+
