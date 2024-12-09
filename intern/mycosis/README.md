@@ -1,12 +1,12 @@
 # 1. Information
 - Using AI to support doctors in predicting skin fungus (8 categories)
 - Applying skills in image data processing and Computer Vision
-- Open-source (Available for free)
+- Not Available
 - Data consists of 9756 images (Collected from books and Google image)
 - **Release date:** September 2019
 - **My role:** AI Intern
 - **Language:** Python 3.6
-- **Package Enviroment:** pip install -r requirements.txt
+- **Package Enviroment:** [requirements.txt](./code/requirements.txt)
 
 # 2. AI Development 
 
@@ -28,6 +28,7 @@
 **Data Preprocessing**
 
 - Used Data Augmentation with ImageDataGenerator
+- We attempted to generate images from ROI images, but the results were not good, and the model could make incorrect predictions. One of the reasons we believe that generating these images by overlaying diseased areas onto other images may lead to critical errors in identifying disease development is the potential for misrepresentation. For instance, certain conditions only manifest on mucosal surfaces, such as the genital or oral mucosa, yet they may be inaccurately placed onto normal skin areas through such editing methods.
 - Split data: $70\%$ training, $10\%$ validation, and $20\%$ testing.
 - Input size: $150\times150\times3$
 
