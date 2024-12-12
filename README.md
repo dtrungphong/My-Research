@@ -15,7 +15,7 @@
 | [Sign Language Recognition](./student_research) | Computer Vision | 🔃 In Progress  | Student Scientific Research | Supervisor | Dec 2024  |
 | [Automatic image data collection from Google](./internship) | Crawling and Scraping data, Computer Vision | ✅ Complete  | Internship Report | Supervisor | Oct 2022  |
 | [CPC1 Employee Face Recognition](./intern) | Computer Vision | 🚧 Terminated | AI Project | Intern | 2021  |
-| [Recognition genital diseases](./intern) | Crawling and Scraping data, Computer Vision, Ensemble | ✅ Complete  | AI Project | Intern | Feb 10, 2020  |
+| [Recognition genital diseases](./intern/intime/) | Crawling and Scraping data, Computer Vision, Ensemble | ✅ Complete  | AI Project | Intern | Feb 10, 2020  |
 | [Recognition skin fungus](./intern/mycosis/) | Crawling and Scraping data, Computer Vision, Transfer learning, Convolutional neural network | ✅ Complete  | AI Project | Intern | Aug 17, 2019  |
 
 
