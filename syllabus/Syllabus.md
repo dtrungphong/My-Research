@@ -31,8 +31,7 @@ You will follow practice, excercise and solution in github [ML](./machine_learni
 ## Description
 
 ## Description
-The objective of this course is to equip students with a foundational understanding of data science concepts.
-Students will gain a comprehensive understanding of the workflows and processes of a data scientist. The course emphasizes key skills, including data collection, data preprocessing, and fundamental data analysis.
+The objective of this course is to equip students with a foundational understanding of data science concepts. Students will gain a comprehensive understanding of the workflows and processes of a data scientist. The course emphasizes key skills, including data collection, data preprocessing, and fundamental data analysis.
 
 The course content may be updated or revised each term. For detailed updates, please refer to the [Notion](https://global-letter-0a7.notion.site/Syllabus-Data-Science-8c956bb29ad24acea81d824555987f63?pvs=74) platform.
 
